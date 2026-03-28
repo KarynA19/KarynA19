@@ -3,8 +3,8 @@
 
 ## I'm Karyn Arama
 
-🎓 B.Sc. Software Engineering student @ Braude College of Engineering  
-💻 Passionate about software development, problem solving & learning new technologies  
+🎓 B.Sc. Software Engineering student @ Braude College of Engineering.  
+💻 Passionate about software development, problem solving & learning new technologies.  
 
 ---
 
@@ -22,14 +22,8 @@
 
 ## 🔗 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/karynaram  
+- 💼 LinkedIn: https://www.linkedin.com/in/karynarama  
 - 📧 Email: KarynArama@gmail.com  
-
----
-
-## 📈 GitHub Stats
-
-![Karyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarynA19&show_icons=true&theme=default)
 
 ---
 
